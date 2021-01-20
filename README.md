@@ -1,5 +1,5 @@
 # hello-world
 Hello world repository
 
-Hi Humans & Machines :-)
+Hi Humans & Machines :-) \n
 I am learning Git!
